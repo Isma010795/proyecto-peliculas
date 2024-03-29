@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # proyecto-peliculas
 # peliculas-proyecto
 # peliculas-proyecto
+# peliculas-proyecto
